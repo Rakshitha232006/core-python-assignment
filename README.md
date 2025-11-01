@@ -84,14 +84,3 @@ Total Fare: $330
 ✔️ Readable structure and meaningful naming
 ✔️ Beginner-friendly and easily extendable
 ✔️ Focused on **clarity, simplicity, and accuracy**
-
----
-
-## 👩‍💻 Author
-
-**Rakshitha Donthireddy**
-💻 Python Developer | 🌱 Problem Solving Enthusiast | 🚀 Exploring Real-World Logic with Code
-
----
-
-Would you like me to make this README even more **aesthetic** (like GitHub profile-level) — with badges (e.g., “Made with Python”, “Open Source”, “Beginner Friendly”), color icons, and aligned sections?
